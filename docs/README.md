@@ -9,7 +9,7 @@ Go give it a try!
 
 ## How to Link
 
-Copy and Paste the Code snippet given below, this will connect the v.1.0 of Eccentric Touch to your webpage.
+Copy and Paste the Code snippet given below, this will connect the v.2.0 of Eccentric Touch to your webpage.
 
 ```html
 <link rel="stylesheet" href="https://cdn.statically.io/gh/DesignSystemsOSS/eccentrictouch/v2.0.0/stable/src/lib/eccentric.css">
