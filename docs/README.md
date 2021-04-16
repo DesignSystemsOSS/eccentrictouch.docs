@@ -73,9 +73,13 @@ Copy and Paste the Code snippet given below, this will connect the v.2.0 of Ecce
 |url| `<input type="url" class="et-input-url" placeholder="url">`| <input type="url" class="et-input-url" placeholder="url">|
 |color| ` <input type="color" name="" id="">`|<input type="color" name="" id="">|
 |button| `<input type="button" value="Download" />`| <input type="button" value="Download" />|
+|radio| ` <input type="radio" id=""/>`| <input type="radio" id=""/>|
 |date| `<input type="date" name="Date" id="" />`| <input type="date" name="Date" id="" />|
 |datetime|` <input type="datetime" name="" id="" />` | <input type="datetime" name="" id="" />|
 |datetime-local|`<input type="datetime-local" name="" id="" />` |<input type="datetime-local" name="" id="" />  |
 |range| `<input type="range" name="" id="" />`|<input type="range" name="" id="" />|
 |week|`<input type="week" name="" id="" />`|<input type="week" name="" id="" />|
 |search| `<input type="search" name="" id="" />`|<input type="search" name="" id="" />|
+|month| ` <input type="month" id=""/>`| <input type="month" id=""/>|
+|image| ` <input type="image" id=""/>`| <input type="image" id=""/>|
+|hidden| ` <input type="hidden" id=""/>`| <input type="hidden" id=""/>|
