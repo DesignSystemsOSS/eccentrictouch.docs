@@ -61,25 +61,24 @@ Copy and Paste the Code snippet given below, this will connect the v.2.0 of Ecce
 
 |Element Type|Code in HTML|Element Demo|
 |-----------|----------|-----------|
-|input:text|`<input type="text" placeholder="Type Something">`|<input type="text" placeholder="Type Something"/>|
+|text|`<input type="text" placeholder="Type Something">`|<input type="text" placeholder="Type Something"/>|
 |textarea|`<textarea placeholder="Type something"></textarea>`|<textarea placeholder="Type something"></textarea>|
 |password|`<input type="password" class="et-input-clean" name="username" placeholder="Enter Something" id="" />`|<input type="password" class="et-input-clean" name="username" placeholder="Enter Something" id="" />|
 |number|`<input type="number" class="et-input-clean" name="username" placeholder="Enter Something" id="" />`|<input type="number" class="et-input-clean" name="username" placeholder="Enter Something" id="" />|
 |email|`<input type="email" class="et-input-clean" name="username" placeholder="Enter Something" id="" />`|<input type="email" class="et-input-clean" name="username" placeholder="Enter Something" id="" />|
-|submit|` <input type="submit" class="et-input-submit" placeholder="Submit"> `|<input type="submit" class="et-input-submit" placeholder="Submit"> |
-| tel |` <input type="tel" class="et-input-tel" placeholder="Telephone"> ` | <input type="tel" class="et-input-tel" placeholder="Telephone">|
-| text| ` <input type="text" class="et-input-text">` | <input type="text" class="et-input-text">|
-| time| `<input type="time" class="et-input-time">`| <input type="time" class="et-input-time">|
+|submit|`<input type="submit" class="et-input-submit" placeholder="Submit"> `|<input type="submit" class="et-input-submit" placeholder="Submit"> |
+|telephone|` <input type="tel" class="et-input-tel" placeholder="Telephone"> ` | <input type="tel" class="et-input-tel" placeholder="Telephone">|
+|time|`<input type="time" class="et-input-time">`| <input type="time" class="et-input-time">|
 |url| `<input type="url" class="et-input-url" placeholder="url">`| <input type="url" class="et-input-url" placeholder="url">|
-|color| ` <input type="color" name="" id="">`|<input type="color" name="" id="">|
-|button| `<input type="button" value="Download" />`| <input type="button" value="Download" />|
-|radio| ` <input type="radio" id=""/>`| <input type="radio" id=""/>|
-|date| `<input type="date" name="Date" id="" />`| <input type="date" name="Date" id="" />|
-|datetime|` <input type="datetime" name="" id="" />` | <input type="datetime" name="" id="" />|
-|datetime-local|`<input type="datetime-local" name="" id="" />` |<input type="datetime-local" name="" id="" />  |
-|range| `<input type="range" name="" id="" />`|<input type="range" name="" id="" />|
+|color|`<input type="color" name="" id="">`|<input type="color" name="" id="">|
+|button|`<input type="button" value="Download" />`|<input type="button" value="Download" />|
+|radio|`<input type="radio" id=""/>`| <input type="radio" id=""/>|
+|date|`<input type="date" name="Date" id="" />`| <input type="date" name="Date" id="" />|
+|datetime|` <input type="datetime" name="" id="" />`| <input type="datetime" name="" id="" />|
+|datetime-local|`<input type="datetime-local" name="" id="" />`|<input type="datetime-local" name="" id="" />  |
+|range|`<input type="range" name="" id="" />`|<input type="range" name="" id="" />|
 |week|`<input type="week" name="" id="" />`|<input type="week" name="" id="" />|
-|search| `<input type="search" name="" id="" />`|<input type="search" name="" id="" />|
-|month| ` <input type="month" id=""/>`| <input type="month" id=""/>|
-|image| ` <input type="image" id=""/>`| <input type="image" id=""/>|
-|hidden| ` <input type="hidden" id=""/>`| <input type="hidden" id=""/>|
+|search|`<input type="search" name="" id="" />`|<input type="search" name="" id="" />|
+|month|`<input type="month" id=""/>`|<input type="month" id=""/>|
+|image|`<input type="image" id=""/>`|<input type="image" id=""/>|
+|hidden|` <input type="hidden" id=""/>`|<input type="hidden" id=""/>|
