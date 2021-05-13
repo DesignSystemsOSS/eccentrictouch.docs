@@ -82,3 +82,93 @@ Copy and Paste the Code snippet given below, this will connect the v.2.0 of Ecce
 |month|`<input type="month" id=""/>`|<input type="month" id=""/>|
 |image|`<input type="image" id=""/>`|<input type="image" id=""/>|
 |hidden|`<input type="hidden" id=""/>`|<input type="hidden" id=""/>|
+
+
+### Progress Bars
+
+Why using common progress bars? Give your progress bars a nice and cleaner look. You can get started with it by following the steps
+explained below.
+
+<div>
+  <div class="et-progress">
+    <div class="et-progress-10"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-20"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-30"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-40"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-50"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-60"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-70"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-80"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-90"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-100"></div>
+  </div>
+</div>
+
+```html
+<div class="et-progress">
+    <div class="et-progress-10"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-20"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-30"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-40"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-50"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-60"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-70"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-80"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-90"></div>
+  </div>
+
+  <div class="et-progress">
+    <div class="et-progress-100"></div>
+  </div>
+```
