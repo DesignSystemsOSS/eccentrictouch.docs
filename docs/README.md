@@ -125,7 +125,7 @@ explained below.
   <div class="et-progress">
     <div class="et-progress-90"></div>
   </div>
-
+  
   <div class="et-progress">
     <div class="et-progress-100"></div>
   </div>
